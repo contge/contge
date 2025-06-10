@@ -8,9 +8,7 @@
 
 ## 👋 About Me
 
-I'm an Information Systems Engineer specialized in **backend development** within the **banking sector**, with deep experience architecting and integrating microservices using **.NET**, **Docker**, **Kubernetes**, and deploying them via **CI/CD pipelines in Azure DevOps** with **Argo** and **Istio**.
-
-I apply **Agile** and **TDD** practices to build scalable, secure, and maintainable solutions. Throughout my career, I’ve mentored peers, led full-stack projects, and continuously aimed to grow technically and professionally.
+Bilingual (English/Spanish) Information Systems Engineer with a strong background in backend development for the banking sector, experienced in designing secure microservices, deploying cloud-native solutions with Docker, Kubernetes, and Azure DevOps, and applying Agile and TDD principles. Recognized for being a fast learner, team player, and effective communicator with hands-on experience in customer service, academic coordination, and mission-driven leadership. Adept at mentoring peers, handling high-pressure support roles, and contributing to scalable, high-quality software solutions while continuously seeking growth and new challenges.
 
 ---
 
