@@ -85,4 +85,10 @@ ISO 27001, Cybersecurity Auditing, Secure API Design, CA API Gateway
 - [LinkedIn](https://www.linkedin.com/in/gerard-contreras-combes/)
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/9f634cfe-39ad-414c-9164-3ddddf0f178c" title="Information Technology Fundamentals"><img src="https://images.credly.com/size/80x80/images/e807f203-a235-4c69-b9ee-f31bf015af6f/image.png" alt="Information Technology Fundamentals" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/d2abc337-9455-4332-93e6-582de6fd451a" title="Cybersecurity Awareness Learner 2025"><img src="https://images.credly.com/size/80x80/images/5a388f8e-891a-48dc-9c01-dfa04ced241a/blob" alt="Cybersecurity Awareness Learner 2025" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/291392a9-b945-4a04-a04e-64f6d622ea86" title="Cybersecurity Awareness - CAPC !"><img src="https://images.credly.com/size/80x80/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png" alt="Cybersecurity Awareness - CAPC !" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/ab05fc9c-156e-4e89-9e65-9289186e1a3c" title="English for IT 1"><img src="https://images.credly.com/size/80x80/images/77b1ea15-6287-4d97-8ecd-c5afa2d137ea/image.png" alt="English for IT 1" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/a862126e-2392-407a-b98b-ab9427889433" title="Introduction to Cybersecurity"><img src="https://images.credly.com/size/80x80/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Introduction to Cybersecurity" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/ac636912-4e42-4822-a624-606baa29bf74" title="Azure Space: Diversity in STEM Challenge Completion Badge"><img src="https://images.credly.com/size/80x80/images/d62dcf8f-1ad4-42d4-9a07-1c59e2d5d9e9/image.png" alt="Azure Space: Diversity in STEM Challenge Completion Badge" width="80" height="80"></a>
 <!--END_SECTION:badges-->
