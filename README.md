@@ -83,4 +83,6 @@ ISO 27001, Cybersecurity Auditing, Secure API Design, CA API Gateway
 ## 📫 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/gerard-contreras-combes/)
-- [Email](mailto:glcontrerasc@gmail.com)
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
