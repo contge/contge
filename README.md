@@ -2,8 +2,6 @@
 
 **Senior Software Engineer | Backend Specialist | C# | .NET | Java | Spring Boot | Azure | Kubernetes | ISO 27001**
 
-📍 Marietta, GA | ✉️ glcontrerasc@gmail.com
-
 ---
 
 ## 👋 About Me
